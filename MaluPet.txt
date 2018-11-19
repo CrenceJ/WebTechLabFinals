@@ -1,0 +1,19 @@
+Company name: MaluPet
+Catch phrase: "Alaga mo, alaga ko"
+
+Features:
+Register - Accounts of customers
+Search - products (Food, Panligo, Pet Equipments, Toys)
+Availment of service - Grooming, Vet Care, Pet sitting, Pet walking1
+Reservation - Day when customer will avail the service (Reservation form).
+Transaction Monitoring - Successfull Transaction
+
+
+Admin:
+Features:
+Accept/ deny account registration
+Accept/ deny date of service (reservation)
+Post services - Promos, Updates, Branches
+Show/ hide services - Services available to client
+Transaction Monitoring - same
+User management - Remove accounts, Notify user
