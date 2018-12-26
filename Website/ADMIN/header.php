@@ -13,7 +13,7 @@
   	<div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
   		<div class="navbar-nav">
       		<a class="nav-item nav-link" href="./index.php">Home <span class="sr-only">(current)</span></a>
-      		<a class="nav-item nav-link" href="./viewAccount.php">View accounts</a>
+      		<a class="nav-item nav-link" href="./viewAccounts.php">View accounts</a>
       		<a class="nav-item nav-link" href="./viewTransaction.php">View transactions</a>
       		<a class="nav-item nav-link" href="./modifyServices.php">Modify/ update services</a>
     	</div>
